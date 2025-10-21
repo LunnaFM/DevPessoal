@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevPersonal</string>
+
+    <!-- MainActivity Strings -->
+    <string name="cadastro_de_objetivo">Objective Registration</string>
+    <string name="nome_do_objetivo">Objective name</string>
+    <string name="definir_priodidade">Set Priority:</string>
+    <string name="alta">High</string>
+    <string name="baixa">Low</string>
+    <string name="notificacoes">Notifications:</string>
+    <string name="notificacaodiaria">Daily notification</string>
+    <string name="categoria">Category:</string>
+    <string name="limpar">Clear</string>
+    <string name="salvar">Save</string>
+
+    <!-- Menu Strings -->
+    <string name="action_add">Add</string>
+    <string name="action_author">About Author</string>
+    <string name="action_list">List</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_editar">Edit</string>
+
+    <!-- AuthorActivity Strings -->
+    <string name="author_title">About Author</string>
+    <string name="author_name">Author Name</string>
+    <string name="author_course">Course</string>
+    <string name="author_email">Email</string>
+    <string name="app_description">Application Description</string>
+    <string name="university_name">UTFPR</string>
+
+    <!-- Settings Strings -->
+    <string name="settings_title">Settings</string>
+    <string name="ordenacao">Sort Order</string>
+    <string name="ordenar_por_nome">Sort by Name</string>
+    <string name="ordenar_por_prioridade">Sort by Priority</string>
+    <string name="ordenar_por_data">Sort by Date</string>
+    <string name="sugestao_preenchimento">Auto-fill suggestions</string>
+    <string name="habilitar_sugestoes">Enable field suggestions</string>
+    <string name="modo_exibicao">Display Mode</string>
+    <string name="modo_normal">Normal Mode</string>
+    <string name="modo_noturno">Night Mode</string>
+    <string name="destaque_funcionalidades">Highlight Features</string>
+    <string name="mostrar_mais_usadas">Show most used features</string>
+
+    <!-- Messages -->
+    <string name="formulario_limpo">Form cleared</string>
+    <string name="valores_limpos">Registered values cleared</string>
+    <string name="objetivo_salvo">Objective saved successfully!</string>
+    <string name="objetivo_atualizado">Objective updated successfully!</string>
+    <string name="preencha_nome">Please fill in the objective name.</string>
+    <string name="selecione_prioridade">Please select a priority.</string>
+    <string name="item_removido">Item removed:</string>
+    <string name="nova_tarefa_adicionada">New task added:</string>
+    <string name="tarefa_atualizada">Task updated:</string>
+    <string name="configuracoes_salvas">Settings saved successfully!</string>
+
+</resources>
