@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories_array">
+        <item>Selecione uma categoria</item>
+        <item>Pessoal</item>
+        <item>Profissional</item>
+        <item>Acadêmico</item>
+        <item>Saúde</item>
+        <item>Financeiro</item>
+        <item>Lazer</item>
+    </string-array>
+    <string-array name="titulos">
+        <item>Tarefa 1</item>
+        <item>Tarefa 2</item>
+        <item>Tarefa 3</item>
+        <item>Tarefa 4</item>
+        <item>Tarefa 5</item>
+        <item>Tarefa 6</item>
+        <item>Tarefa 7</item>
+        <item>Tarefa 8</item>
+        <item>Tarefa 9</item>
+        <item>Tarefa 10</item>
+    </string-array>
+    <string-array name="descricoes">
+        <item>Descrição da Tarefa 1</item>
+        <item>Descrição da Tarefa 2</item>
+        <item>Descrição da Tarefa 3</item>
+        <item>Descrição da Tarefa 4</item>
+        <item>Descrição da Tarefa 5</item>
+        <item>Descrição da Tarefa 6</item>
+        <item>Descrição da Tarefa 7</item>
+        <item>Descrição da Tarefa 8</item>
+        <item>Descrição da Tarefa 9</item>
+        <item>Descrição da Tarefa 10</item>
+    </string-array>
+    <string-array name="datas">
+        <item>2025-05-01</item>
+        <item>2022-02-01</item>
+        <item>2004-07-01</item>
+        <item>2022-04-01</item>
+        <item>2024-04-01</item>
+        <item>2030-02-01</item>
+        <item>2026-03-01</item>
+        <item>1997-09-23</item>
+        <item>2021-03-01</item>
+        <item>2029-10-01</item>
+    </string-array>
+    <integer-array name="prioridades">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+</resources>

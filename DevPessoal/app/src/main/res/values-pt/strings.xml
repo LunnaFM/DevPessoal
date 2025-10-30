@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevPessoal</string>
+
+    <!-- Strings da MainActivity -->
+    <string name="cadastro_de_objetivo">Cadastro de Objetivo</string>
+    <string name="nome_do_objetivo">Nome do objetivo</string>
+    <string name="definir_priodidade">Definir Prioridade:</string>
+    <string name="alta">Alta</string>
+    <string name="baixa">Baixa</string>
+    <string name="notificacoes">Notificações:</string>
+    <string name="notificacaodiaria">Notificação diária</string>
+    <string name="categoria">Categoria:</string>
+    <string name="data_conclusao">Data de Conclusão:</string>
+    <string name="selecionar_data">Selecionar Data</string>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+
+    <!-- Strings para menus -->
+    <string name="action_add">Adicionar</string>
+    <string name="action_author">Sobre o Autor</string>
+    <string name="action_list">Listar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_editar">Editar</string>
+    <string name="categorias">Categorias</string>
+
+    <!-- Nomes das Categorias -->
+    <string name="cat_pessoal">Pessoal</string>
+    <string name="cat_profissional">Profissional</string>
+    <string name="cat_academico">Acadêmico</string>
+    <string name="cat_saude">Saúde</string>
+    <string name="cat_financeiro">Financeiro</string>
+    <string name="cat_lazer">Lazer</string>
+
+    <!-- Strings para AuthorActivity -->
+    <string name="author_title">Sobre o Autor</string>
+    <string name="author_name">Nome do Autor</string>
+    <string name="author_course">Curso</string>
+    <string name="author_email">E-mail</string>
+    <string name="app_description">Descrição do Aplicativo</string>
+    <string name="university_name">UTFPR</string>
+
+    <!-- Strings para Configurações -->
+    <string name="settings_title">Configurações</string>
+    <string name="ordenacao">Ordenação</string>
+    <string name="ordenar_por_nome">Ordenar por Nome</string>
+    <string name="ordenar_por_prioridade">Ordenar por Prioridade</string>
+    <string name="ordenar_por_data">Ordenar por Data</string>
+    <string name="sugestao_preenchimento">Sugestão de preenchimento</string>
+    <string name="habilitar_sugestoes">Habilitar sugestões nos campos</string>
+    <string name="modo_exibicao">Modo de Exibição</string>
+    <string name="modo_normal">Modo Normal</string>
+    <string name="modo_noturno">Modo Noturno</string>
+    <string name="modo_visualizacao">Modo de Visualização</string>
+    <string name="visualizacao_completa">Visualização Completa</string>
+    <string name="idioma">Idioma</string>
+    <string name="usar_portugues">Usar Português Brasileiro</string>
+    <string name="destaque_funcionalidades">Destaque de Funcionalidades</string>
+    <string name="mostrar_mais_usadas">Mostrar funcionalidades mais usadas</string>
+
+    <!-- Mensagens -->
+    <string name="formulario_limpo">Formulário limpo</string>
+    <string name="valores_limpos">Valores cadastrados limpos</string>
+    <string name="objetivo_salvo">Objetivo salvo com sucesso!</string>
+    <string name="objetivo_atualizado">Objetivo atualizado com sucesso!</string>
+    <string name="preencha_nome">Por favor, preencha o nome do objetivo.</string>
+    <string name="selecione_prioridade">Por favor, selecione uma prioridade.</string>
+    <string name="selecione_categoria">Por favor, selecione uma categoria.</string>
+    <string name="selecione_data_conclusao">Por favor, selecione a data de conclusão.</string>
+    <string name="item_removido">Item removido:</string>
+    <string name="nova_tarefa_adicionada">Nova tarefa adicionada:</string>
+    <string name="tarefa_atualizada">Tarefa atualizada:</string>
+    <string name="configuracoes_salvas">Configurações salvas com sucesso!</string>
+
+    <!-- AlertDialog -->
+    <string name="confirmar_exclusao">Confirmar Exclusão</string>
+    <string name="mensagem_confirmar_exclusao">Deseja realmente excluir o item</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+</resources>
